@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an App Developer & AI enthusiast focused on building real-world, production-ready applications across mobile, web, and backend, with an emphasis on scalability and clean architecture.<br><br>Currently, I’m working on an AI Video Highlight Generator as my Final Year Project (FYP), combining AI models, backend systems, and modern app frameworks.<br><br>🚀 What I’m Working On<br>AI-powered apps & automation<br>Mobile apps using Flutter & Kotlin<br>Web & full-stack applications<br>🤝 Open to Collaborate<br><br>AI projects, mobile/web apps, and real-world builds.<br><br>⚡ Fun Fact<br>I care more about shipping stable apps than just writing code 🚀
+I’m an App Developer & AI enthusiast focused on building real-world, production-ready applications across mobile, web, and backend, with an emphasis on scalability and clean architecture.<br>Currently, I’m working on an AI Video Highlight Generator as my Final Year Project (FYP), combining AI models, backend systems, and modern app frameworks.<br><br>🚀 What I’m Working On<br>AI-powered apps & automation<br>Mobile apps using Flutter & Kotlin<br>Web & full-stack applications<br><br>🤝 Open to Collaborate<br>AI projects, mobile/web apps, and real-world builds.<br><br>⚡Fun Fact<br>I care more about shipping stable apps than just writing code 🚀
 
 
 ## 🌐 Socials:
