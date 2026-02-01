@@ -1,4 +1,8 @@
 <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Tayyab+%F0%9F%91%8B;App+Developer;AI+Enthusiast;Flutter+%26+Kotlin+Developer;Full-Stack+Engineer;Shipping+Production-Ready+Apps+%F0%9F%9A%80" />
+</h1>
+
+<h1 align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?
     font=Fira+Code
