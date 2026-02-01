@@ -1,26 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Tayyab+%F0%9F%91%8B;App+Developer;AI+Enthusiast;Flutter+%26+Kotlin+Developer;Full-Stack+Engineer;Shipping+Production-Ready+Apps+%F0%9F%9A%80" />
-</h1>
+<h1 align="center">Hi there, I'm Tayyab 👋</h1>
 
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=28
-    &pause=1200
-    &center=true
-    &vCenter=true
-    &width=750
-    &repeat=true
-    &lines=Hi+there%2C+I%27m+Tayyab+%F0%9F%91%8B;
-    App+Developer;
-    AI+Enthusiast;
-    Flutter+%26+Kotlin+Developer;
-    Full-Stack+Engineer;
-    Shipping+Production-Ready+Apps+%F0%9F%9A%80"
-    alt="Typing SVG"
-  />
-</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=600&lines=App+Developer;AI+Enthusiast;Flutter+%26+Kotlin+Developer;Full-Stack+Engineer;Shipping+Stable+Apps+%F0%9F%9A%80" />
+</h3>
+
 
 # 💫 About Me:
 I’m an App Developer & AI enthusiast focused on building real-world, production-ready applications across mobile, web, and backend, with an emphasis on scalability and clean architecture.<br>Currently, I’m working on an AI Video Highlight Generator as my Final Year Project (FYP), combining AI models, backend systems, and modern app frameworks.<br><br>🚀 What I’m Working On<br>AI-powered apps & automation<br>Mobile apps using Flutter & Kotlin<br>Web & full-stack applications<br><br>🤝 Open to Collaborate<br>AI projects, mobile/web apps, and real-world builds.<br><br>⚡Fun Fact<br>I care more about shipping stable apps than just writing code 🚀
