@@ -1,113 +1,99 @@
 <div align="center">
 
-```
-   _____                       _      
-  |_   _|_ _ _   _ _   _  __ _| |__   
-    | |/ _` | | | | | | |/ _` | '_ \  
-    | | (_| | |_| | |_| | (_| | |_) | 
-    |_|\__,_|\__, |\__, |\__,_|_.__/  
-              |___/ |___/             
-```
-
-### Building things that ship — not just things that compile.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=54C5F8&center=true&vCenter=true&width=600&lines=tayyab%40dev%3A~%24+whoami;Flutter+%2B+Kotlin+%2B+AI+Developer;tayyab%40dev%3A~%24+flutter+build;Building+production-ready+apps...;tayyab%40dev%3A~%24+git+push+origin+main;Shipped+%E2%9C%93" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-```js
-const tayyab = {
-  role: "Final Year BSCS Student & Freelance App Developer",
-  location: "Chiniot, Punjab, Pakistan 🇵🇰",
-  currentlyBuilding: "FlashCut — AI Video Highlight Generator (FYP)",
-  stack: {
-    mobile: ["Flutter", "Dart", "Kotlin", "Jetpack Compose"],
-    ai_ml: ["Python", "YOLOv8", "OpenCV"],
-    backend: ["Flask", "PHP", "MySQL", "Firebase", "Supabase"],
-    web: ["JavaScript", "Bootstrap 5", "HTML/CSS"]
-  },
-  funFact: "I'd rather ship a stable app at 80% than a broken one at 100%"
-};
+```bash
+tayyab@dev:~$ cat about.json
+```
+```json
+{
+  "name": "Tayyab Mehmood",
+  "role": "App & Web Developer",
+  "status": "Final Year BSCS | Freelancer (3+ yrs, 20+ shipped apps)",
+  "based_in": "Chiniot, Punjab, PK",
+  "platforms": ["Android", "Web", "Desktop"],
+  "philosophy": "ship stable > ship perfect"
+}
+```
+
+```bash
+tayyab@dev:~$ flutter doctor --stack
+```
+```
+✓ Mobile      → Flutter · Dart · Kotlin · Jetpack Compose
+✓ AI/CV       → Python · YOLOv8 · OpenCV
+✓ Backend     → Flask · PHP · MySQL · Firebase · Supabase
+✓ Web         → JavaScript · Bootstrap 5 · HTML/CSS
+✓ Tools       → Git · GitHub Actions · VS Code
+
+No issues found! 5 platforms ready to ship.
 ```
 
 <br>
 
-## 🧩 things I've actually built
+```bash
+tayyab@dev:~/projects$ ls -la --builds
+```
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```
+drwxr-xr-x  flashcut/              # AI video highlight generator · FYP · live on Google Play
+                                    # Kotlin · Jetpack Compose · Flask · YOLOv8 · OpenCV · Oracle Cloud
 
-### 🎬 FlashCut
-AI-powered video highlight generator — my Final Year Project, live on Google Play.
-`Kotlin` `Jetpack Compose` `Flask` `YOLOv8` `OpenCV` `Oracle Cloud`
+drwxr-xr-x  clinic-management/     # Multi-role Flutter app — Receptionist/Doctor/Pharmacist
+                                    # Flutter · Supabase · Realtime sync · RLS auth · Win + Android
 
-Detects sports highlights automatically using computer vision and serves them through a full Android client → Flask API → AI engine pipeline.
+drwxr-xr-x  hostmeerkat/           # Full hosting company frontend, multi-page, dark/light mode
+                                    # Bootstrap 5 · JavaScript · PHP
 
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Clinic Management System
-Multi-role Flutter app for a real clinic — Receptionist, Doctor & Pharmacist modules.
-`Flutter` `Supabase` `Realtime` `RLS Auth`
-
-Built for Windows desktop + Android tablet, with live database sync and role-based access control.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 HostMeerkat
-Full frontend build for a hosting company — multi-page, dark/light mode, fully responsive.
-`Bootstrap 5` `JavaScript` `PHP`
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 20+ Fiverr Projects
-Three years freelancing for international clients — Android, Flutter, and web apps shipped end-to-end.
-`Kotlin` `Flutter` `Full-Stack`
-
-</td>
-</tr>
-</table>
+drwxr-xr-x  fiverr-clients/        # 20+ apps shipped for international clients since 2021
+                                    # Android · Flutter · Full-stack web
+```
 
 <br>
 
-## ⚙️ how I work
-
+```bash
+tayyab@dev:~$ ./run_workflow.sh
 ```
-1. Understand the actual problem, not just the feature request
-2. Build the smallest version that works
-3. Test it like a user would break it
-4. Ship → iterate → repeat
+```
+> understand the real problem
+> build the smallest version that works
+> break it before the user does
+> ship → measure → iterate
+[done] workflow complete in 4 steps
 ```
 
 <br>
 
 <div align="center">
 
-### 📈 the numbers
+```bash
+tayyab@dev:~$ curl -s api.github.com/stats
+```
 
-![](https://github-readme-stats.vercel.app/api?username=tayyabmehmod&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmehmod&theme=radical&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=tayyabmehmod&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmehmod&theme=tokyonight&hide_border=true&layout=compact" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=tayyabmehmod&theme=tokyonight&hide_border=true" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=tayyabmehmod&theme=radical&hide_border=true)
+```bash
+tayyab@dev:~$ cat contact.txt
+```
 
-<br>
+[![Instagram](https://img.shields.io/badge/instagram-%40byte.neon-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/byte.neon)
+[![LinkedIn](https://img.shields.io/badge/linkedin-tayyab--mehmood-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyab-mehmood-2b134a284)
+[![Email](https://img.shields.io/badge/email-tayyabmehmood7b-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tayyabmehmood7b@gmail.com)
 
-### 🔗 find me here
+```bash
+tayyab@dev:~$ echo "open to: Flutter & Android builds · AI/CV projects · full-stack web"
+```
+```
+open to: Flutter & Android builds · AI/CV projects · full-stack web
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/byte.neon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyab-mehmood-2b134a284)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayyabmehmood7b@gmail.com)
-
-<br>
-
-`open to: Flutter & Android builds · AI/CV projects · full-stack web work`
-
-<sub>thanks for stopping by — now go build something 🚀</sub>
+tayyab@dev:~$ _
+```
 
 [![](https://visitcount.itsvg.in/api?id=tayyabmehmod&icon=0&color=0)](https://visitcount.itsvg.in)
 
