@@ -1,51 +1,114 @@
-<h1 align="center">Hi, I'm Tayyab 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Flutter+%26+Android+Developer;Kotlin+%2F+Jetpack+Compose;AI+%2F+ML+%26+Computer+Vision;Full-Stack+Web+Developer;Shipping+Stable+Apps+%F0%9F%9A%80" />
-</h3>
+```
+   _____                       _      
+  |_   _|_ _ _   _ _   _  __ _| |__   
+    | |/ _` | | | | | | |/ _` | '_ \  
+    | | (_| | |_| | |_| | (_| | |_) | 
+    |_|\__,_|\__, |\__, |\__,_|_.__/  
+              |___/ |___/             
+```
 
-# 💫 About Me
+### Building things that ship — not just things that compile.
 
-Final-year BSCS student and freelance mobile/web developer with 3+ years of experience delivering 20+ applications to international clients. I build cross-platform apps with **Flutter**, native Android apps with **Kotlin & Jetpack Compose**, and AI-powered systems using **Python, YOLOv8, and OpenCV**.
+</div>
 
-🎓 Currently completing my Final Year Project — **FlashCut**, an AI-powered video highlight generator (Kotlin, Jetpack Compose, Flask, YOLOv8, OpenCV, Firebase, Oracle Cloud) — live on Google Play.
+<br>
 
-🛠️ Also building **Dr. Tayyab Ahmad — German Homeo**, a multi-role Flutter clinic management system (Windows desktop + Android tablet) backed by Supabase.
+```js
+const tayyab = {
+  role: "Final Year BSCS Student & Freelance App Developer",
+  location: "Chiniot, Punjab, Pakistan 🇵🇰",
+  currentlyBuilding: "FlashCut — AI Video Highlight Generator (FYP)",
+  stack: {
+    mobile: ["Flutter", "Dart", "Kotlin", "Jetpack Compose"],
+    ai_ml: ["Python", "YOLOv8", "OpenCV"],
+    backend: ["Flask", "PHP", "MySQL", "Firebase", "Supabase"],
+    web: ["JavaScript", "Bootstrap 5", "HTML/CSS"]
+  },
+  funFact: "I'd rather ship a stable app at 80% than a broken one at 100%"
+};
+```
 
-🌐 Doing full-stack frontend/hosting work for **HostMeerkat** (Bootstrap 5, dark/light mode systems, multi-page architecture).
+<br>
 
-💼 20+ projects delivered as a freelance developer on Fiverr.
+## 🧩 things I've actually built
 
-⚡ I care more about shipping stable, working apps than just writing code.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🤝 Open to Collaborate
-Flutter & Android apps, AI/computer vision projects, and full-stack web builds.
+### 🎬 FlashCut
+AI-powered video highlight generator — my Final Year Project, live on Google Play.
+`Kotlin` `Jetpack Compose` `Flask` `YOLOv8` `OpenCV` `Oracle Cloud`
 
-## 🌐 Connect
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/byte.neon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyab-mehmood-2b134a284) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tayyabmehmood7b@gmail.com)
+Detects sports highlights automatically using computer vision and serves them through a full Android client → Flask API → AI engine pipeline.
 
-# 💻 Tech Stack
+</td>
+<td width="50%" valign="top">
 
-**Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+### 🏥 Clinic Management System
+Multi-role Flutter app for a real clinic — Receptionist, Doctor & Pharmacist modules.
+`Flutter` `Supabase` `Realtime` `RLS Auth`
 
-**AI / Computer Vision**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black) ![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+Built for Windows desktop + Android tablet, with live database sync and role-based access control.
 
-**Backend & Web**
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Database & Cloud**
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### 🌐 HostMeerkat
+Full frontend build for a hosting company — multi-page, dark/light mode, fully responsive.
+`Bootstrap 5` `JavaScript` `PHP`
 
-**Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-# 📊 GitHub Stats
+### 💼 20+ Fiverr Projects
+Three years freelancing for international clients — Android, Flutter, and web apps shipped end-to-end.
+`Kotlin` `Flutter` `Full-Stack`
 
-![](https://github-readme-stats.vercel.app/api?username=tayyabmehmod&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=tayyabmehmod&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmehmod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</td>
+</tr>
+</table>
 
----
+<br>
+
+## ⚙️ how I work
+
+```
+1. Understand the actual problem, not just the feature request
+2. Build the smallest version that works
+3. Test it like a user would break it
+4. Ship → iterate → repeat
+```
+
+<br>
+
+<div align="center">
+
+### 📈 the numbers
+
+![](https://github-readme-stats.vercel.app/api?username=tayyabmehmod&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmehmod&theme=radical&hide_border=true&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=tayyabmehmod&theme=radical&hide_border=true)
+
+<br>
+
+### 🔗 find me here
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/byte.neon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyab-mehmood-2b134a284)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayyabmehmood7b@gmail.com)
+
+<br>
+
+`open to: Flutter & Android builds · AI/CV projects · full-stack web work`
+
+<sub>thanks for stopping by — now go build something 🚀</sub>
+
 [![](https://visitcount.itsvg.in/api?id=tayyabmehmod&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
