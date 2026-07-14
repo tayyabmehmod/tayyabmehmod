@@ -1,13 +1,13 @@
 <div align="center">
 
-
+```text
   _____                       _       
  |_   _|__ _ _   _ _   _  __ _| |__   
    | |/ _` | | | | | | |/ _` | '_ \  
    | | (_| | |_| | |_| | (_| | |_) | 
    |_|\__,_|\__, |\__, |\__,_|_.__/  
-            |___/ |___/
-
+            |___/ |___/              
+```
 
 ### "Building high-performance mobile architectures that ship — not just code that compiles."
 
@@ -112,14 +112,12 @@ Successfully contracted, structured, tracked, and delivered custom web and mobil
 
 ## ⚙️ **DEVELOPMENT PIPELINE & WORKFLOW**
 
-Deeply map out the architectural problem domain before writing any source lines.
-
-Build highly optimized, minimum functional layers to isolate operational blocks.
-
-Conduct rigorous performance testing across environments to eliminate edge case crashes.
-
-Ship production binaries → Track real performance indicators → Iterate.
-
+```text
+1. Deeply map out the architectural problem domain before writing any source lines.
+2. Build highly optimized, minimum functional layers to isolate operational blocks.
+3. Conduct rigorous performance testing across environments to eliminate edge case crashes.
+4. Ship production binaries → Track real performance indicators → Iterate.
+```
 
 ---
 
@@ -128,11 +126,13 @@ Ship production binaries → Track real performance indicators → Iterate.
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayyabmehmod&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Tayyab Mehmood GitHub Profile Metrics" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmehmod&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Tayyab Mehmood Core Coding Languages Profile Breakdown" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tayyabmehmod&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Tayyab Mehmood GitHub Profile Metrics" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmehmod&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Tayyab Mehmood Core Coding Languages Profile Breakdown" height="180"/>
 </p>
 
-[![Tayyab Mehmood GitHub Contributions Streak Metrics](https://nirzak-streak-stats.vercel.app/?user=tayyabmehmod&theme=radical&hide_border=true)](https://github.com/tayyabmehmod)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tayyabmehmod&theme=radical&hide_border=true" alt="Tayyab Mehmood GitHub Contributions Streak Metrics" />
+</p>
 
 </div>
 
@@ -159,6 +159,11 @@ Ship production binaries → Track real performance indicators → Iterate.
 
 <br>
 
-[![Unique Page Profile Views Counter](https://visitcount.itsvg.in/api?id=tayyabmehmod&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Unique Page Profile Views Counter](https://komarev.com/ghpvc/?username=tayyabmehmod&color=ea4aaa&style=flat-square&label=PROFILE+VIEWS)](https://github.com/tayyabmehmod)
 
 </div>
+
+<!-- 
+SEO OPTIMIZATION METADATA (Hidden from readers, indexed by Search Engines)
+Keywords: Tayyab Mehmood, Full-Stack Mobile Developer, Flutter Developer Pakistan, Android Developer Faisalabad, Native Jetpack Compose, Kotlin programmer, iOS developer, Supabase Realtime DB, YOLOv8 computer vision integration, Python Flask API Developer, Hire Mobile App Developer Punjab, Fiverr Upwork freelance developer, HostMeerkat, FlashCut AI Google Play.
+-->
